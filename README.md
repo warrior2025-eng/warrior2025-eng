@@ -46,7 +46,13 @@ philosophy: "Build systems people actually use — not resume filler."
 </div>
 <br/>
 <div align="center">
-CategoryStackLanguagesShow Image Show Image Show ImageToolsShow Image Show Image Show ImageLearning NowShow Image Show ImageExploringShow Image Show Image Show Image
+Languages: Show Image Show Image Show Image
+
+Tools: Show Image Show Image Show Image
+
+Learning Now: Show Image Show Image
+
+Exploring: Show Image Show Image Show Image
 
 </div>
 <br/>
@@ -72,19 +78,6 @@ CategoryStackLanguagesShow Image Show Image Show ImageToolsShow Image Show Image
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=warrior2025-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrior2025-eng&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrior2025-eng&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-<br/>
-🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=warrior2025-eng&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-<br/>
-📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=warrior2025-eng&theme=tokyo-night&hide_border=true" width="90%" />
 </div>
 <br/>
 🤝 Let's Connect
