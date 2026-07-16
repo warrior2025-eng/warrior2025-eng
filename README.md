@@ -37,8 +37,7 @@ long_term_interests:
 philosophy: "Build systems people actually use — not resume filler."
 ```
 
-- 🔭 Currently building **GyaanSetu**
-- 🚀 Leading **@StackVolt** · Co-founder **@Stackmates**
+- 🚀 Leading **@StackVolt**
 - 🏆 Active hackathon competitor — teamwork, speed, innovation under pressure
 - 🌱 Learning: Full Stack Dev, AI, System Design
 - 💼 Goal: ship AI-powered products, contribute to OSS, build startups, reach financial independence in college
