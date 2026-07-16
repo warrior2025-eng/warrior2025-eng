@@ -22,7 +22,7 @@
 
 ```yaml
 name: Pranjal Srivastav
-role: Aspiring Software Engineer & Full Stack Developer
+role: Aspiring Full Stack Developer
 education: B.Tech in Information Technology (2nd Year), India
 current_focus:
   - Full Stack Web Development
