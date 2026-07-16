@@ -1,28 +1,104 @@
-<h1 align="center">Hi, I'm Pranjal Srivastav 👋</h1> <h3 align="center">Software Engineer in the Making | Full Stack Developer | Building Real Products, Not Tutorials</h3> <p align="center"> <a href="https://linkedin.com/in/pranjal-srivastav-2b91b0377"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> </a> <a href="mailto:srivastavpranjal15@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /> </a> </p>
-About Me
-I'm a second-year B.Tech Information Technology student in India, focused on building software that solves real problems — not resume filler. I care about clean architecture, good documentation, and shipping things people can actually use.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=220&section=header&text=Pranjal%20Srivastav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18" />
+<a href="https://linkedin.com/in/pranjal-srivastav-2b91b0377">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:srivastavpranjal15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/INDIA-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+real-world+products%2C+not+tutorials;Second-Year+B.Tech+IT+Student;Full+Stack+Developer+%7C+Hackathon+Builder;Founder+mindset+%7C+Open+Source+Contributor" />
+</div>
+<br/>
+🧭 About Me
+
+yamlname: Pranjal Srivastav
+role: Aspiring Software Engineer & Full Stack Developer
+education: B.Tech in Information Technology (2nd Year), India
+current_focus:
+  - Full Stack Web Development
+  - Responsive Design & Clean Architecture
+  - Git / GitHub workflows
+long_term_interests:
+  - Artificial Intelligence
+  - Automation Systems & Robotics
+  - System Design
+  - Startup Building
+  - Open Source
+philosophy: "Build systems people actually use — not resume filler."
+
 
 🔭 Currently building GyaanSetu
 🚀 Leading @StackVolt · Co-founder @Stackmates
-🌱 Deepening my skills in Full Stack Development, AI, and System Design
-🏆 Active hackathon participant — I like building fast under pressure with a team
-💼 Long-term goal: build AI-powered products and startups that reach millions of people
-⚡ Fun fact: I'd rather ship one excellent project than ten average ones
-Tech Stack
-Languages & Core Show Image Show Image Show Image
-
-Tools & Workflow Show Image Show Image Show Image
-
-Currently Learning Show Image Show Image
-
-Featured Projects
-<table> <tr> <td width="50%"> <h4>🛡️ acropyre-sentinel</h4> <p>One-line description of what it does and the problem it solves.</p> <a href="https://github.com/warrior2025-eng/acropyre-sentinel">Repo</a> </td> <td width="50%"> <h4>🚀 GyaanSetu</h4> <p>One-line description of what it does and who it's for.</p> <a href="https://github.com/warrior2025-eng/GyaanSetu">Repo</a> </td> </tr> </table>
-Replace the placeholder lines above with a sharp one-sentence pitch for each project — think "what does it do, for whom, why does it matter" rather than a feature list.
-
-GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=warrior2025-eng&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=warrior2025-eng&theme=tokyonight&hide_border=true" width="48%" /> </p>
-Let's Connect
-I'm always open to hackathon teams, open-source collaboration, and early-stage builders. Reach out on LinkedIn or email.
+🏆 Active hackathon competitor — teamwork, speed, innovation under pressure
+🌱 Learning: Full Stack Dev, AI, System Design
+💼 Goal: ship AI-powered products, contribute to OSS, build startups, reach financial independence in college
+⚡ I'd rather ship one exceptional project than ten average ones
 
 
+<br/>
+🛠️ Tech Stack
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
+</div>
+<br/>
+<div align="center">
+CategoryStackLanguagesShow Image Show Image Show ImageToolsShow Image Show Image Show ImageLearning NowShow Image Show ImageExploringShow Image Show Image Show Image
+
+</div>
+<br/>
+🚀 Featured Projects
+
+<div align="center">
+<a href="https://github.com/warrior2025-eng/acropyre-sentinel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior2025-eng&repo=acropyre-sentinel&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/warrior2025-eng/GyaanSetu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=warrior2025-eng&repo=GyaanSetu&theme=tokyonight&hide_border=true" />
+</a>
+</div>
+
+🔧 acropyre-sentinel — [replace with a sharp one-line pitch: what it does, for whom, why it matters]
+🔧 GyaanSetu — [replace with a sharp one-line pitch: what it does, for whom, why it matters]
+
+
+
+<br/>
+📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=warrior2025-eng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=warrior2025-eng&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrior2025-eng&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=warrior2025-eng&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+<br/>
+📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=warrior2025-eng&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
+<br/>
+🤝 Let's Connect
+
+<div align="center">
+I'm always open to hackathon teams, open-source collaboration, and early-stage builders.
+
+<a href="https://linkedin.com/in/pranjal-srivastav-2b91b0377">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:srivastavpranjal15@gmail.com">
+  <img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" />
+</div>
