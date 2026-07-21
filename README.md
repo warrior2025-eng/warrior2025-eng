@@ -74,7 +74,7 @@ philosophy: "Build systems people actually use — not resume filler."
 <td width="50%" valign="top">
 
 ### 🛡️ acropyre-sentinel
-*[Replace with a sharp one-line pitch: what it does, for whom, why it matters]*
+*Transforming cybersecurity with AI-driven threat intelligence, behavioral analytics, and real-time fraud detection.*
 
 ![Language](https://img.shields.io/github/languages/top/warrior2025-eng/acropyre-sentinel?style=flat-square&color=F7DF1E)
 ![Stars](https://img.shields.io/github/stars/warrior2025-eng/acropyre-sentinel?style=flat-square&color=38BDF8)
@@ -86,7 +86,7 @@ philosophy: "Build systems people actually use — not resume filler."
 <td width="50%" valign="top">
 
 ### 🚀 GyaanSetu
-*[Replace with a sharp one-line pitch: what it does, for whom, why it matters]*
+*Bridging the gap between knowledge and opportunity through intelligent, student-centric learning.*
 
 ![Language](https://img.shields.io/github/languages/top/warrior2025-eng/GyaanSetu?style=flat-square&color=E34F26)
 ![Stars](https://img.shields.io/github/stars/warrior2025-eng/GyaanSetu?style=flat-square&color=38BDF8)
